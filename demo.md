@@ -1,12 +1,12 @@
-This is the first line.
+This is the first line.!
 
 This is the second line.!!!!
 
-and the third
+and the third!
 
-Updated
+Updated!
 
-Note that this toothbrush is totally safe to
+Note that this toothbrush is totally safe to!
 
-use for children, adults, pets, and wildlife. This is it.
+use for children, adults, pets, and wildlife. This is it.!
 
